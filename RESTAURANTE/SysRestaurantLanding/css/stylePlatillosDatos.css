@@ -1,0 +1,22 @@
+.title {
+    font-size: 30px;
+}
+
+.custom-table {
+    width: 80% !important;
+    margin: 0 auto;
+    border: none;
+}
+
+.custom-table td {
+    border: none;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.imgDish {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 10px;
+}
